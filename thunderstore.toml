@@ -6,7 +6,7 @@ schemaVersion = "0.0.1"
 namespace = "NikkelM"
 name = "Hidden_Healthbars"
 versionNumber = "0.0.1"
-description = "Hides all enemy healthbars. Use the config to also hide boss healthbars."
+description = "Hides all enemy health bars. Use the config to also hide boss health bars."
 websiteUrl = "https://github.com/NikkelM/Hades-II-HiddenHealthbars"
 containsNsfwContent = false
 
