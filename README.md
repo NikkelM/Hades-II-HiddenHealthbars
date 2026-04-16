@@ -1,4 +1,4 @@
-# Hidden Health bars
+# Hidden Health Bars
 
 Hides all enemy health bars.
 
